@@ -1,3 +1,4 @@
+// Program4: Case Class
 case class Car(name: String, model: String) {
 
   val carName = name

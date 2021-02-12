@@ -1,3 +1,4 @@
+// Program 3: Companion object
 class CompanionDemo {
 
   var x = 5
